@@ -1,0 +1,6 @@
+.vscode
+go.sum
+Makefile
+.golangci.yml
+task_golang.md
+.gitignore
